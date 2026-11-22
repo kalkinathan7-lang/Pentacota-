@@ -1,0 +1,1 @@
+"""Pentacota trading intelligence prototype."""
